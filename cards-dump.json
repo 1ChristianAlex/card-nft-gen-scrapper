@@ -1,0 +1,102 @@
+[
+  {
+    "superhero": "Batman",
+    "description": "DC Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Superman",
+    "description": "DC Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Flash",
+    "description": "DC Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Green Lantern",
+    "description": "DC Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Green Arrow",
+    "description": "DC Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Wonder Woman",
+    "description": "DC Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Martian Manhunter",
+    "description": "DC Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Robin/Nightwing",
+    "description": "DC Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Blue Beetle",
+    "description": "DC Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Black Canary",
+    "description": "DC Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Spider Man",
+    "description": "Marvel Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Captain America",
+    "description": "Marvel Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Iron Man",
+    "description": "Marvel Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Thor",
+    "description": "Marvel Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Hulk",
+    "description": "Marvel Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Wolverine",
+    "description": "Marvel Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Daredevil",
+    "description": "Marvel Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Hawkeye",
+    "description": "Marvel Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Cyclops",
+    "description": "Marvel Comics",
+    "price": 150
+  },
+  {
+    "superhero": "Silver Surfer",
+    "description": "Marvel Comics",
+    "price": 150
+  }
+]
